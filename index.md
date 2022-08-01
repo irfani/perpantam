@@ -4,24 +4,24 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: PERPANTAM
 partners:
-- "/uploads/2022/08/01/logo-perpantam-2.png"
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2022/08/01/logo-antam.png"
+- "/uploads/2022/08/01/logo-mind-id.png"
+- "/uploads/2022/08/01/logobumnterbaru2020.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- heading: Pelatihan
+  description: Pelatihan dan Kaderisasi anggota
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- heading: Seni & Olahraga
+  description: Pengembangan keterampilan seni dan olahrga
+  icon: "/uploads/2017/11/13/biotech.png"
+- description: Dukungan advokasi dan hubungan industrial
+  heading: Advokasi
+  icon: "/uploads/2017/11/13/health.png"
+- description: Kajian strategis terhadap kebijakan perusahaan
+  heading: Kajian Strategis
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Persatuan Pegawai Aneka Tambang
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Pembina, pendamping, pelopor dan pembela terhadap anggota
 hero_button:
   text: Sejarah Perpantam
   href: "/about"
