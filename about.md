@@ -17,7 +17,7 @@ menu:
     weight: 2
 
 ---
-**Perpantam (Persatuan Pegawai Aneka Tambang)** 
+**PERPANTAM (Persatuan Pegawai Aneka Tambang)**
 
 Terbentuk : Pada hari Kamis Tanggal 20 Mei 1999
 
@@ -32,3 +32,13 @@ Pancasila dan UUD 1945
 Fungsi :
 
 Pembina, pendamping, pelopor dan pembela terhadap anggotanya
+
+**Janji Pengurus PERPANTAM**
+
+1\. Pengurus Perpantam Taat Pada Anggaran dasar (AD) dan Anggaran Rumah Tangga (ART) Perpantam.
+
+2\. Pengurus Perpantam Mampu Bekerja Keras, Cerdas dan Ikhlas.
+
+3\. Pengurus Perpantam Mengutamakan Tugas Pokok Sebagai Pegawai.
+
+4\. Pengurus Perpantam Mampu Menerapkan nilai-nilai Perusahaan dalam melaksanakan Roda Organisasi Perpantam
