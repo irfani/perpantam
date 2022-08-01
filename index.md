@@ -23,7 +23,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Sejarah Perpantam
   href: "/about"
 show_news: true
 show_staff: true
