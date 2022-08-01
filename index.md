@@ -2,8 +2,9 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: PERPANTAM
 partners:
+- "/uploads/2022/08/01/logo-perpantam-2.png"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
@@ -16,7 +17,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Persatuan Pegawai Aneka Tambang
 textline: |
   Belkirk College of Engineering
 
