@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: PERPANTAM (Persatuan Pegawai Aneka Tambang)
+short_title: PERPANTAM
+description: PERPANTAM (Persatuan Pegawai Aneka Tambang)
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -21,7 +21,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/program/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
