@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: Koordinator Bidang 1 (Advokasi Hub Industrial & Eksternal)
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
+thumbnail: "/uploads/2022/08/02/1011897690-_-mei-wulandari.JPG"
 email: Mey.Wulandari@antam.com
 linkedin: ''
 layout: person
