@@ -5,7 +5,6 @@ layout: landing-page
 heading: PERPANTAM
 partners:
 - "/uploads/2022/08/01/logo-antam.png"
-- "/uploads/2022/08/01/logo-mind-id.png"
 - "/uploads/2022/08/01/logobumnterbaru2020.png"
 services:
 - heading: Pelatihan
