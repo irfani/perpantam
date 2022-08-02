@@ -9,12 +9,12 @@ textline: PERPANTAM, Untuk ANTAM yang lebih baik
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  footer:
-    identifier: _about
-    weight: 3
   navigation:
     identifier: _about
     weight: 2
+  footer:
+    identifier: _about
+    weight: 3
 
 ---
 **PERPANTAM (Persatuan Pegawai Aneka Tambang)**
@@ -35,29 +35,27 @@ Pembina, pendamping, pelopor dan pembela terhadap anggotanya
 
 **Janji Pengurus PERPANTAM**
 
-1\. Pengurus Perpantam Taat Pada Anggaran dasar (AD) dan Anggaran Rumah Tangga (ART) Perpantam.
-
-2\. Pengurus Perpantam Mampu Bekerja Keras, Cerdas dan Ikhlas.
-
-3\. Pengurus Perpantam Mengutamakan Tugas Pokok Sebagai Pegawai.
-
-4\. Pengurus Perpantam Mampu Menerapkan nilai-nilai Perusahaan dalam melaksanakan Roda Organisasi Perpantam
+1. Pengurus Perpantam Taat Pada Anggaran dasar (AD) dan Anggaran Rumah Tangga (ART) Perpantam.
+2. Pengurus Perpantam Mampu Bekerja Keras, Cerdas dan Ikhlas.
+3. Pengurus Perpantam Mengutamakan Tugas Pokok Sebagai Pegawai.
+4. Pengurus Perpantam Mampu Menerapkan nilai-nilai Perusahaan dalam melaksanakan Roda Organisasi Perpantam
 
 **VISI PERPANTAM**
 
-**"PROfesionalisme PERPANTAM"**
+**"PERPANTAM Prediktif dan Tangguh untuk Antam yang lebih baik dan Pegawai yang lebih Sejahtera"**
 
-Pengurus PERPANTAM dalam mengelola organisasi akan menjalankan prinsip-prinsip berani, bekerja keras, tanpa didasari kepentingan ataupun motivasi pribadi, serta patuh terhadap AD/ART dengan menjalankan
+Seluruh geliat kegiatan Perusahaan saat ini semakin disruptif, kompleks dan penuh ketidakpastian.
 
-**"AKSI"**  
-Advokasi, Kaderisasi, Sinergi, Implementasi program
+Prediktif adalah cepat ,tanggap ,kreatif membuat terobosan ,fleksibilitas,adaptif.
+
+Tangguh adalah berani dan memiliki stamina yang prima untuk mendapatkan solusi serta tumbuh kembang organisasi.
 
 **MISI PERPANTAM**
 
-1\.ADVOKASI: Memberikan perlindungan dan pembelaan atas hak dan kepentingan anggota PERPANTAM
-
-2\.KADERISASI: Mendorong terwujudnya peningkatan kualitas SDM ANTAM dengan pembinaan kader PERPANTAM secara berjenjang dan berkelanjutan
-
-3\.SINERGI: Mendorong terciptanya hubungan industrial yang harmonis, setara dan berkeadilan.
-
-4\.IMPLEMENTASI PROGRAM: kesejahteraan anggota, pelayanan kesehatan yang berkualitas, mengaktifkan kegiatan seni dan olahraga di lingkungan karyawan.
+1. Membina hubungan industrial yang sinergi,dinamis,konstruktif dengan dilandasi kesetaraan antara Pegawai dengan Pengusaha sesuai amanah AD/ART PERPANTAM
+2. Mengawal dan memastikan implementasi PKB dan turunan Peraturannya terlaksana dengan konsisten serta mencegah segala upaya untuk menurunkan kualitas PKB.
+3. Mengupayakan bantuan pendampingan advokasi yang paling maksimal kepada anggota
+4. Mencetak kader-kader yang berkualitas
+5. Mengawal secara aktif setiap langkah perubahan Proses dan Model Bisnis Antam guna memastikan peningkatan Kesejahteraan Pegawai Perusahaan.
+6. Mendorong Pengembangan kompetensi Pegawai menjadi program unggulan dan prioritas Perusahaan guna menghadapi disrupsi bisnis saat ini dan di masa depan
+7. Menjalin dan membina aliansi Kerjasama dengan Serikat holding serta Lembaga pemerintah atau swasta lainnya guna memperkuat perjuangan PERPANTAM
