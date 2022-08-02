@@ -3,18 +3,13 @@
 {% endcomment %}
 
 {% if page.partners %}
-<section class="partners">
-    <div class="container">
+<section class="services">
+    <div class="container pure-g">
         <h2>Dukungan Lembaga</h2>
-        <div class="flexslider">
-            <ul class="slides">
-                {% for logo in page.partners %}
-                    <li>
-                        <img src="{{ logo | absolute_url }}" alt="{{ logo }}" />
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
+            {% for logo in page.partners %}
+                <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
+                    <img src="{{ logo | absolute_url }}" alt="{{ logo }}" />
+            {% endfor %}
     </div>
 </section>
 {% endif %}
