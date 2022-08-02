@@ -27,4 +27,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/perundingan-pkb.md
 - _projects/seni-olahraga.md
