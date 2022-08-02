@@ -23,7 +23,7 @@ services:
 sub_heading: Persatuan Pegawai Aneka Tambang
 textline: Pembina, pendamping, pelopor dan pembela terhadap anggota
 hero_button:
-  text: Sejarah Perpantam
+  text: Tentang PERPANTAM
   href: "/about"
 show_news: false
 show_staff: false
