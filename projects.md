@@ -11,7 +11,7 @@ menu:
     weight: 3
   footer:
     identifier: _projects
-    url: "/projects/"
+    url: "/program/"
     weight: 2
 
 ---
