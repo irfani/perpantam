@@ -1,8 +1,10 @@
 ---
-title: Janji Pengurus
+title: Program
 layout: projects
 description: Projects by Belkirk College
 publish_date: '2017-11-01T03:00:00.000+00:00'
+heading: Program Kerja PERPANTAM
+services: []
 menu:
   navigation:
     identifier: _projects
@@ -13,10 +15,3 @@ menu:
     weight: 2
 
 ---
-1\. Pengurus Perpantam Taat Pada Anggaran dasar (AD) dan Anggaran Rumah Tangga (ART) Perpantam.
-
-2\. Pengurus Perpantam Mampu Bekerja Keras, Cerdas dan Ikhlas.
-
-3\. Pengurus Perpantam Mengutamakan Tugas Pokok Sebagai Pegawai.
-
-4\. Pengurus Perpantam Mampu Menerapkan nilai-nilai Perusahaan dalam melaksanakan Roda Organisasi Perpantam
