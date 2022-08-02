@@ -1,5 +1,5 @@
 ---
-label: program
+label: project
 hide_body: false
 fields:
 - type: text
@@ -27,6 +27,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _program/musyawarah-kerja-perpantam.md
-- _program/perundingan-pkb.md
-- _program/seni-olahraga.md
+- _projects/musyawarah-kerja-perpantam.md
+- _projects/perundingan-pkb.md
+- _projects/seni-olahraga.md
