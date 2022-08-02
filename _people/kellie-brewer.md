@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 sub_heading: Koordinator Bidang 2 (Dana Usaha & Seni Olahraga)
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+thumbnail: "/uploads/2022/08/02/nasar-npp-6718.JPG"
 email: nasar@antam.com
 linkedin: ''
 layout: person
