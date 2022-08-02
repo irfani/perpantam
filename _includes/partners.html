@@ -4,12 +4,13 @@
 
 {% if page.partners %}
 <section class="services">
+    <h2>Dukungan Lembaga</h2>
     <div class="container pure-g">
-        <h2>Dukungan Lembaga</h2>
-            {% for logo in page.partners %}
-                <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
-                    <img width="350px" src="{{ logo | absolute_url }}" alt="{{ logo }}" />
-            {% endfor %}
+    {% for logo in page.partners %}
+        <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
+            <img width="350px" src="{{ logo | absolute_url }}" alt="{{ logo }}" />
+        </div>
+    {% endfor %}
     </div>
 </section>
 {% endif %}
