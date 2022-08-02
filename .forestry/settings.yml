@@ -25,8 +25,8 @@ sections:
   templates:
   - person
 - type: directory
-  path: _projects
-  label: Projects
+  path: _program
+  label: Program
   create: all
   match: "*"
   templates:
